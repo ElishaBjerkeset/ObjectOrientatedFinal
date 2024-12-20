@@ -1,4 +1,5 @@
-// I certify, that this computer program submitted by me is all of my own work. Signed: Elisha Bjerkeset
+// I certify, that this computer program submitted by me is all of my own work.
+//Signed: Elisha Bjerkeset
 //Bjerkeset CSC 322 Final Project
 
 /*
